@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: stitchuuuu.github.io
+Token: e3974857de08ba4f80e9c473da0f0f548be64e7c721c8c79f30fc51ca97b62da
